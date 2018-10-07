@@ -11,7 +11,16 @@ namespace Coding_Dojo_01
         static void Main(string[] args)
         {
             // welcome message
-            Console.WriteLine("Welcome to Coding Dojo 01 by Mehdi Khodaeifard!");
+            Console.WriteLine("Welcome to Tempeture Convertor!!!");
+            do
+            {
+                char UserSelection = Console.ReadKey().KeyChar;
+                if (UserSelection = 0
+                    )
+                    break;
+
+            }
+
 
         }
     }
